@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm an aspiring data analyst and prop trader with a backgr
 
 ## 💬 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/dean-robinson-b95688349/))
+- 💼 LinkedIn: [linkedin.com/in/dean-robinson-b95688349](https://linkedin.com/in/dean-robinson-b95688349/))
 
 
 ---
