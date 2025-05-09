@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dean
 
-Welcome to my GitHub! I'm an aspiring data analyst and prop trader with a background in diagnostics.
+Welcome to my GitHub! I'm an aspiring data analyst and a funded trader with a background in diagnostics.
 ---
 
 ## 🧠 About Me
