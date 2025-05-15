@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm an aspiring data analyst and a funded trader with a ba
 
 ## 💬 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/dean-robinson-b95688349](https://linkedin.com/in/dean-robinson-b95688349/)
+- 💼 LinkedIn: [linkedin.com/in/dean-robinson-b95688349]([https://linkedin.com/in/dean-robinson-b95688349/](https://www.linkedin.com/in/dean-robinson-8526732ab/))
 
 
 ---
