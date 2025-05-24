@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm an aspiring data analyst and a funded trader with a ba
 - 🗂️ Building trading models with a statistical edge using statistical triggers (standard deviations, mean reversion, etc.).
 - 🧹 Creating personal **data cleaning and analysis cheat sheets** for faster workflows.
 - 📊 Exploring the possibilites of R.
-
+- 📈 Building data pipelines and arcitecture for my topstep funded account.
 ---
 
 ## 🚀 Learning Goals
