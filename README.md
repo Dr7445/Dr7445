@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm an aspiring data analyst and a funded trader with a ba
 
 ## 🧠 About Me
 
-- 🎓 Currently working toward my **NCFE Level 3 in Data Analysis** and have recently completed the **Google Data Analytics Certificate**.
+- 🎓 Currently working toward my BSc(Hons) in data Science and recently completed my **NCFE Level 3 in Data Analysis** and have recently completed the **Google Data Analytics   Certificate**.
 - 📊 Proprietary **futures trader at Topstep**, with a research analyst contract — I trade what I model.
 - 💡 Experienced at building strategies from historical data using stats, pattern recognition, and a lot of grit.
 - 🧰 Skills in **R**, **SQL**, **Python**, **Excel**, **Looker Studio**, and **Tableau** (beginner level).
